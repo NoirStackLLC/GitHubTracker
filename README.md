@@ -106,7 +106,7 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 ## About Noir Stack
 
-This project utilizes the **Noir Stack**, a set of technologies optimized for building scalable and efficient applications. The **Noir Stack** combines lightweight Python libraries, efficient API usage, and performance-focused design to offer a seamless and effective way to monitor GitHub repository activities.
+This project utilizes the Noir Stack, a set of technologies optimized for building scalable and efficient applications. For this effort, it combines Java with the GitHub API to track repository activity.
 
 ## License Summary
 
