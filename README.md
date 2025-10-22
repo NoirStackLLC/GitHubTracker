@@ -113,9 +113,3 @@ This project utilizes the **Noir Stack**, a set of technologies optimized for bu
 This project is licensed under the MIT License. For more details, see the LICENSE file in the repository.
 
 
-
-5. **Contributing Guidelines**: Added guidelines for contributing to the repository. This will help users understand how to contribute if they want to make improvements.
-
-6. **Noir Stack Mention**: A brief explanation of the **Noir Stack** has been included to align with your initial idea. This gives context for users who may be curious about the underlying technology.
-
----
